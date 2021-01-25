@@ -19,3 +19,5 @@ if __name__ == '__main__':
         mots[i] = majuscule(mots[i])
 
     print(mots)
+    
+#Modification 1
